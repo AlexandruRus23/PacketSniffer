@@ -1,0 +1,16 @@
+F:\Aly\Scoala\Licent\PacketSniffer-master\WpfApplication\bin\Debug\WpfApplication.exe.config
+F:\Aly\Scoala\Licent\PacketSniffer-master\WpfApplication\bin\Debug\WpfApplication.exe
+F:\Aly\Scoala\Licent\PacketSniffer-master\WpfApplication\bin\Debug\WpfApplication.pdb
+F:\Aly\Scoala\Licent\PacketSniffer-master\WpfApplication\obj\Debug\WpfApplication.csprojResolveAssemblyReference.cache
+F:\Aly\Scoala\Licent\PacketSniffer-master\WpfApplication\obj\Debug\MainWindow.g.cs
+F:\Aly\Scoala\Licent\PacketSniffer-master\WpfApplication\obj\Debug\App.g.cs
+F:\Aly\Scoala\Licent\PacketSniffer-master\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.cache
+F:\Aly\Scoala\Licent\PacketSniffer-master\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.lref
+F:\Aly\Scoala\Licent\PacketSniffer-master\WpfApplication\obj\Debug\MainWindow.baml
+F:\Aly\Scoala\Licent\PacketSniffer-master\WpfApplication\obj\Debug\WpfApplication.g.resources
+F:\Aly\Scoala\Licent\PacketSniffer-master\WpfApplication\obj\Debug\WpfApplication.Properties.Resources.resources
+F:\Aly\Scoala\Licent\PacketSniffer-master\WpfApplication\obj\Debug\WpfApplication.csproj.GenerateResource.Cache
+F:\Aly\Scoala\Licent\PacketSniffer-master\WpfApplication\obj\Debug\WpfApplication.exe
+F:\Aly\Scoala\Licent\PacketSniffer-master\WpfApplication\obj\Debug\WpfApplication.pdb
+F:\Aly\Scoala\Licent\PacketSniffer-master\WpfApplication\bin\Debug\PacketSniffer.exe
+F:\Aly\Scoala\Licent\PacketSniffer-master\WpfApplication\bin\Debug\PacketSniffer.pdb
